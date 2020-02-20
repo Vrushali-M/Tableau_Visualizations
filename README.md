@@ -11,7 +11,7 @@ https://public.tableau.com/profile/vrushali2528#!/vizhome/HW5_VA/Next_expectatio
 
 
 ### Data Search Visualization
-This visualization aims to understand and reduce the amount of time required to search for a dataset, by graphically plotting it. \
+This visualization aims to understand and reduce the amount of time required to search for a dataset, by graphically plotting it. 
 
 Dashboard 1:
 https://public.tableau.com/profile/vrushali2528#!/vizhome/VA_data_search/analysis_problems
